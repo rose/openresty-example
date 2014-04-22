@@ -1,5 +1,7 @@
 Getting started with the glorious [nginx](http://nginx.org)+[LuaJIT](http://luajit.org) Web development platform [OpenResty](http://openresty.org) is easy with my OpenResty Heroku [buildpack](https://github.com/davidad/heroku-buildpack-openresty)! All you need is a file called `conf/openresty.conf`, as demonstrated in this minimal "hello world"-style app. You don't even _need_ to install OpenResty locally.
 
+# remember to login & register your keys if necessary
+
 To try this example app for yourself:
   1. [Sign up](https://signup.heroku.com/signup/dc) for a Heroku account
   2. Get the [Heroku Toolbelt](https://toolbelt.heroku.com/) (easy to install)
